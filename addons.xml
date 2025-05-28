@@ -1,0 +1,14 @@
+<addons>
+  <addon id="pvs" version="2.2.0" name="Plugin Video Sosac">
+    <requires>
+      <import addon="xbmc.python" version="2.25.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py"/>
+    <extension point="xbmc.addon.metadata">
+      <summary>Plugin Video Sosac</summary>
+      <description>StreamujTV plugin</description>
+      <platform>all</platform>
+    </extension>
+  </addon>
+</addons>
+
